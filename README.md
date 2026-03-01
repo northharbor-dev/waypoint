@@ -128,6 +128,7 @@ See [docs/architecture.md](docs/architecture.md) for details.
 
 ## Documentation
 
+- [Getting Started](docs/getting-started.md) -- install, configure MongoDB Atlas, seed a project, and run your first workflow
 - [Overview](docs/overview.md) -- what Waypoint is and who it's for
 - [Architecture](docs/architecture.md) -- system design and data model
 - [Roadmap](docs/roadmap.md) -- current and planned work
